@@ -20,3 +20,7 @@ On the begining of inning/game there will be an animated ball dropped to the lev
 Game:
 ----
 To start game each player has to press "Press to Bowl to Batsman" button to see what the other player (batsman) will score. The one that bats first is player 1 and one that bowl first is player 2. This sequence will continue untill 6 bowls from player 2. Then comes the batting od player 2 and player 1 will bowl. 
+
+Development:
+------------
+This application is promarily developed using HTML5, Javascript and JQuery. For JQuery; I tried to utilize the PUBNUB services for concurrent session. I created an account and used the dice example that was discussed in class as a base line of my project. Also the chatting window use same.
